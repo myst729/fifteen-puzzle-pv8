@@ -1,0 +1,14 @@
+{
+  "name": "Fifteen Puzzle PV8",
+  "description": "An 8-puzzle game created with PixelVision8.",
+  "version": "v1.0.18",
+  "ext": ".pv8",
+  "gpuChip": "PV8",
+  "cartChip": "PV8",
+  "soundChip": "PV8",
+  "runnerType": "",
+  "buildWin": "false",
+  "buildExtras": "",
+  "buildMac": "false",
+  "buildLinux": "false"
+}
